@@ -22,7 +22,7 @@
 body {
     font-family: "Lato", Helvetica, Arial, sans-serif;
     font-size: 18px;
-    background-color: var(--gray-85);
+    background-color: black;
     color: var(--gray-05);
 }
 
@@ -83,8 +83,8 @@ button {
     cursor: pointer;
     margin-top: 15px;
     text-decoration: none;
-    background-image: linear-gradient(#fecc4c, #ffac33);
-    border: 3px solid #feac32;
+    background-image: linear-gradient(#bafe4c, #33ffc9);
+    border: 3px solid #32fe51;
     padding: 10px 16px;
     font-size: 23px;
     width: 100%;
